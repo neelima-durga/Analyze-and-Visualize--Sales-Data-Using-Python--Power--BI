@@ -1,0 +1,6 @@
+OrderID,Date,Product,Quantity,UnitPrice,Region,Revenue
+1,2024-01-01,Laptop,2,55000,South,110000
+2,2024-01-02,Shoes,5,2000,North,10000
+3,2024-01-03,Phone,3,25000,East,75000
+4,2024-01-04,Shirt,4,1500,West,6000
+5,2024-01-05,Tablet,1,30000,South,30000
